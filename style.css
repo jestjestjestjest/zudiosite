@@ -1,0 +1,17 @@
+.d-flex{
+    list-style: none
+}
+li{
+    color: white;
+    font-size: 20px;
+    
+}
+li:hover{
+    color: gray;
+}
+
+*{
+    background-color: black;
+    margin: 0px;
+    padding: 0px;
+}
